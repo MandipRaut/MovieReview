@@ -14,7 +14,7 @@ import {
   deleteDoc
 } from "https://www.gstatic.com/firebasejs/9.18.0/firebase-firestore.js";
 
-// Your web app's Firebase configuration
+
 const firebaseConfig = {
   apiKey: "AIzaSyAHWirBJ35COUqXvh2QeHoOGSFYiHQfMwI",
   authDomain: "moviereview-408f6.firebaseapp.com",
